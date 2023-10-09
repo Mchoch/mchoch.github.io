@@ -9,3 +9,48 @@ p {
   font-size: 45px;
   margin-top: 0px;
 }
+.banner-4 {
+  padding: 120px 15px;
+  position: relative;
+  overflow: hidden;
+}
+.banner-4 .banner-content-4 {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 30px 15px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.banner-4 .banner-content-4 h1 {
+  margin: 0;
+  color: #FFFFFF;
+  font-weight: 700;
+  line-height: 1.1;
+  font-size: 2em;
+}
+@media (min-width: 768px) {
+  .banner-4 .banner-content-4 h1 {
+    font-size: 3em;
+  }
+}
+.banner-4 .banner-content-4 p {
+  color: #FF9800;
+  font-size: 1.5em;
+  line-height: 1.1;
+}
+.banner-4 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  z-index: -1;
+  height: 177.77vh; /* reverse the aspect ration from 16:9 to 9:16*/
+}
+@media (min-width: 768px) {
+  .banner-4 iframe {
+    height: 56.25vw; /* keeps the video actual (16:9) proportion */
+  }
+}
