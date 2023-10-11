@@ -63,3 +63,4 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: #00a361;
 }
+p    {color: red;}
