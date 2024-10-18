@@ -53,7 +53,7 @@
   gap: 0.625%;
 }
 .container a:link, a:visited {
-    background-color: #aa0ccf00;
+    background-color: blue;
     color: black;
     border: 2px solid #20207400;
     padding: 10px 20px;
