@@ -55,7 +55,7 @@
 .container a:link, a:visited {
     background-color: white;
     color: black;
-    border: 2px solid #202074;
+    border: 2px solid #aa0ccf;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -64,7 +64,7 @@
     margin-left: 20px;
 }
 .container a:hover, a:active {
-    background-color: #202074;
+    background-color: #aa0ccf;
 }
 
 .hul a:link, a:visited {
