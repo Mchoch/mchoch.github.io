@@ -12,7 +12,7 @@
 }
 .banner-4 .banner-content-4 h1 {
   margin: 0;
-  color: #aa0ccf00;
+  color: #aa0ccf;
   font-weight: 700;
   line-height: 1.1;
   font-size: 2em;
@@ -23,7 +23,7 @@
   }
 }
 .banner-4 .banner-content-4 p {
-  color: #aa0ccf00;
+  color: #aa0ccf;
   font-size: 1.5em;
   line-height: 1.1;
 }
@@ -53,9 +53,9 @@
   gap: 0.625%;
 }
 .container a:link, a:visited {
-    background-color: blue;
+    background-color: #aa0ccf;
     color: black;
-    border: 2px solid #20207400;
+    border: 2px solid #202074;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -64,11 +64,11 @@
     margin-left: 20px;
 }
 .container a:hover, a:active {
-    background-color: #20207400;
+    background-color: #202074;
 }
 
 .hul a:link, a:visited {
-    background-color: #aa0ccf00;
+    background-color: #aa0ccf;
     color: black;
     text-decoration: none;    
 }
