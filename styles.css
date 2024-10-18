@@ -12,7 +12,7 @@
 }
 .banner-4 .banner-content-4 h1 {
   margin: 0;
-  color: #FFFFFF;
+  color: #aa0ccf00;
   font-weight: 700;
   line-height: 1.1;
   font-size: 2em;
@@ -23,7 +23,7 @@
   }
 }
 .banner-4 .banner-content-4 p {
-  color: #FF9800;
+  color: #aa0ccf00;
   font-size: 1.5em;
   line-height: 1.1;
 }
@@ -68,12 +68,12 @@
 }
 
 .hul a:link, a:visited {
-    background-color: white;
+    background-color: #aa0ccf00;
     color: black;
     text-decoration: none;    
 }
 .hul a:hover, a:active {
-    background-color: grey;    
+    background-color: blue;    
 }
 
 
